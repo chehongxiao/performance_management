@@ -57,7 +57,7 @@
 	<dependency>
 	    <groupId>org.springframework</groupId>
 	    <artifactId>spring-webmvc</artifactId>
-	    <version>5.0.9.RELEASE</version>
+	    <version>5.1.0.RELEASE</version>
 	</dependency>
   	
   	<!-- js依赖工具，添加这个依赖才能添加js依赖 -->
